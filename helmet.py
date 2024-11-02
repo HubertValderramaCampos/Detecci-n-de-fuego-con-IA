@@ -7,7 +7,7 @@ import asyncio
 from datetime import datetime
 
 # Configura tu token de bot
-TOKEN = '6724682393:AAFdn1P0BzJ6MOPbBpSI5V17wfoWIzI-gJc'
+#TOKEN = TOKEN DEL BOT
 bot = telegram.Bot(token=TOKEN)
 
 # Función asincrónica para enviar una imagen
